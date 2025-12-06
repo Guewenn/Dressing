@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "STUDIO",
+    "slug": "MonDressing",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/image_1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.bladev.MonDressing"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "798d05a1-a6be-4817-afde-41add3ac741f"
+      }
+    }
+  }
+}
